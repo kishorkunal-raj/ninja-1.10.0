@@ -1,7 +1,6 @@
 arch:
    - amd64
    - pcc64le
-
 matrix:
   include:
     - os: linux
